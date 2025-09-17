@@ -6,5 +6,3 @@ Alongside these, I have also created projects in HTML, CSS, and JavaScript, focu
 
 This repository will continue to grow as I learn new technologies and work on more projects, making it a reflection of both my progress and passion for programming.
 
-
-
